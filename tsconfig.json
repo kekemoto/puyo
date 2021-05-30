@@ -1,0 +1,9 @@
+{
+  "include": ["front/**/*"],
+  "compilerOptions": {
+    "target": "esnext",
+    "strictNullChecks": true,
+    "alwaysStrict": true,
+    "strictBindCallApply": true
+  }
+}

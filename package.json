@@ -1,0 +1,18 @@
+{
+  "name": "puyo",
+  "version": "0.0.1",
+  "description": "Gomoku",
+  "main": "docs/index.html",
+  "scripts": {
+    "serve": "parcel front/index.html --port 80",
+    "build": "parcel build front/index.html"
+  },
+  "author": "kekemoto",
+  "license": "AGPL-3.0-or-later",
+  "devDependencies": {
+    "@types/p5": "^0.9.1",
+    "parcel": "^2.0.0-beta.1",
+    "typescript": "^4.2.3",
+    "webpack": "^5.36.2"
+  }
+}
